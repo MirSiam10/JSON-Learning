@@ -18,3 +18,4 @@ console.log(Parse);
 console.log("Name:", Parse.Name);
 console.log(typeof Parse);
 console.log(typeof jsonData);
+
